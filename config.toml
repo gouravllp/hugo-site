@@ -30,57 +30,57 @@ startbuttonText = "Contact Now"
 ## german
 
 [[languages.de.params.menu.main]]
-url = '/'
+url = ''
 title = "Home"
 
 #[[languages.de.params.menu.main]]
-#url = '/posts/'
+#url = ''
 #title = "Aktuelles"
 
 [[languages.de.params.menu.main]]
-url = '/pricing/'
+url = ''
 title = "About"
 
 [[languages.de.params.menu.main]]
-url = '/en/'
+url = ''
 title = "Services"
 
 ## english
 
 
 [[languages.de.params.menu.main]]
-url = 'https://gallery.kegelschiene.net/'
+url = ''
 title = "Contact Us"
 
 
 
 
 [[languages.en.params.menu.main]]
-url = '/'
+url = ''
 title = "Home"
 
 #[[languages.en.params.menu.main]]
-#url = '/posts/'
+#url = ''
 #title = "Posts"
 
 [[languages.en.params.menu.main]]
-url = '/en/pricing/'
+url = ''
 title = "Pricing"
 
 [[languages.en.params.menu.main]]
-url = 'https://gallery.kegelschiene.net/'
+url = ''
 title = "Gallery"
 
 [[languages.en.params.menu.main]]
-url = '/en/press/'
+url = ''
 title = "Press commentaries"
 
 [[languages.en.params.menu.main]]
-url = 'https://schliesspendel.de'
+url = ''
 title = "Schließpendel"
 
 [[languages.en.params.menu.main]]
-url = '/imprint/'
+url = ''
 title = "Imprint and Privacy"
 
 [[languages.en.params.menu.main]]
@@ -250,7 +250,7 @@ text = "Buy"
 special = true
 
 [[languages.en.cta.link]]
-href = "https://gallery.kegelschiene.net/"
+href = ""
 text = "Gallery"
 special = false
 
