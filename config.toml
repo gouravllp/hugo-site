@@ -1,4 +1,4 @@
-baseURL = "https://kyptronix-LLP.github.io/hugo-site/"
+baseURL = ""
 title = 'SmolTech LLC'
 languageCode = "de"
 defaultContentLanguage = "de"
