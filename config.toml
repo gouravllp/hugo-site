@@ -1,4 +1,4 @@
-baseURL = ""
+sbaseURL = ""
 title = 'SmolTech LLC'
 languageCode = "de"
 defaultContentLanguage = "de"
@@ -30,7 +30,7 @@ startbuttonText = "Contact Now"
 ## german
 
 [[languages.de.params.menu.main]]
-url = ''
+url = '/'
 title = "Home"
 
 #[[languages.de.params.menu.main]]
@@ -38,7 +38,7 @@ title = "Home"
 #title = "Aktuelles"
 
 [[languages.de.params.menu.main]]
-url = ''
+url = '/pricing/'
 title = "About"
 
 [[languages.de.params.menu.main]]
@@ -49,30 +49,30 @@ title = "Services"
 
 
 [[languages.de.params.menu.main]]
-url = ''
+url = 'https://gallery.kegelschiene.net/'
 title = "Contact Us"
 
 
 
 
 [[languages.en.params.menu.main]]
-url = ''
+url = '/'
 title = "Home"
 
 #[[languages.en.params.menu.main]]
-#url = ''
+#url = '/posts/'
 #title = "Posts"
 
 [[languages.en.params.menu.main]]
-url = ''
+url = '/en/pricing/'
 title = "Pricing"
 
 [[languages.en.params.menu.main]]
-url = ''
+url = 'https://gallery.kegelschiene.net/'
 title = "Gallery"
 
 [[languages.en.params.menu.main]]
-url = ''
+url = '/en/press/'
 title = "Press commentaries"
 
 [[languages.en.params.menu.main]]
@@ -80,11 +80,11 @@ url = 'https://schliesspendel.de'
 title = "Schließpendel"
 
 [[languages.en.params.menu.main]]
-url = ''
+url = '/imprint/'
 title = "Imprint and Privacy"
 
 [[languages.en.params.menu.main]]
-url = ''
+url = '/de/'
 title = "Deutsch"
 
 
@@ -94,7 +94,7 @@ title = "Deutsch"
 [languages.de.one]
 enable = true
 title = 'DVD/BLURAY RIPPING - COMMUNITY CLOUD - CONTENT PRODUCTION'
-body = 'Learn about the benefits of hosting your own movie collection. </br>A community cloud is a type of cloud computing infrastructure that is shared by a group of organizations with similar interests or requirements. </br>Learn to use Open Source video and audio production software like Open Broadcast Studio (OBS).'
+body = 'Learn about the benefits of hosting your own movie collection. '
 
 [[languages.de.one.icon]]
 icon = "fa-wheelchair-alt"
@@ -141,18 +141,18 @@ enable = true
 
 [[languages.de.two.section]]
 img = "https://agent.kyptronix.in/dvd2.png"
-title = 'DVD/Bluray Ripping'
-body = 'Learn about the benefits of hosting your own movie collection <br> 1. Convenience: Having your own movie collection means you can access your favorite movies whenever you want, without having to rely on a streaming service or a physical DVD rental. You can organize your collection in a way that suits your preferences and easily find the movies you want to watch. <br> 2. Cost-effectiveness: Building your own movie collection can be cost-effective in the long run, especially if you are a frequent movie watcher. Instead of paying for monthly streaming subscriptions or renting DVDs every time you want to watch a movie, you can invest in building your own collection and enjoy your favorite movies without any additional costs. <br> 3. Control: With your own movie collection, you have full control over what movies you want to watch, when you want to watch them, and how often you want to watch them. You dont have to worry about the availability of a certain movie on a streaming platform or the expiration date of a rental DVD.<br>4. Quality: By hosting your own movie collection, you can ensure that the movies you watch are of high quality, both in terms of picture and sound. You can choose to buy DVDs or Blu-rays with superior audio and video quality or download high-quality digital copies of your favorite movies.<br>5. Nostalgia: Building your own movie collection can be a great way to relive your favorite movie memories from the past. You can collect movies that have sentimental value to you or that you watched during a certain time in your life, and revisit them whenever you want to take a trip down memory lane. <br> 6.Sharing: Make your collection available to friends and family, and possibly gain access to theirs as well.'
+title = 'DVD / Bluray Ripping'
+body = 'Learn about the benefits of hosting your own movie collection <br><br>  1.<b class="color_change"> Convenience : </b> <span class="small">Having your own movie collection means you can access your favorite movies whenever you want, without having to rely on a streaming service or a physical DVD rental. You can organize your collection in a way that suits your preferences and easily find the movies you want to watch. <br><p></p></span> 2.<b class="color_change"> Cost-effectiveness : </b><span class="small"> Building your own movie collection can be cost-effective in the long run, especially if you are a frequent movie watcher. Instead of paying for monthly streaming subscriptions or renting DVDs every time you want to watch a movie, you can invest in building your own collection and enjoy your favorite movies without any additional costs.</span> <br><p></p> 3.<b class="color_change"> Control :</b> <span class="small">With your own movie collection, you have full control over what movies you want to watch, when you want to watch them, and how often you want to watch them. You dont have to worry about the availability of a certain movie on a streaming platform or the expiration date of a rental DVD.</span><br><p></p>4.<b class="color_change">Quality :</b> <span class="small"> By hosting your own movie collection, you can ensure that the movies you watch are of high quality, both in terms of picture and sound. You can choose to buy DVDs or Blu-rays with superior audio and video quality or download high-quality digital copies of your favorite movies.<p></p></span><br>5 .<b class="color_change">Nostalgia :</b><span class="small"> Building your own movie collection can be a great way to relive your favorite movie memories from the past. You can collect movies that have sentimental value to you or that you watched during a certain time in your life, and revisit them whenever you want to take a trip down memory lane.</span> <br><p></p> 6.<b class="color_change"> Sharing : </b><span class="small">Make your collection available to friends and family, and possibly gain access to theirs as well.</span>'
 
 [[languages.de.two.section]]
 img = "https://agent.kyptronix.in/cloud.png"
 title = 'Community Cloud'
-body = 'A community cloud is a type of cloud computing infrastructure that is shared by a group of organizations with similar interests or requirements. Unlike public clouds, community clouds are designed to serve the needs of a specific community of users, such as government agencies, academic institutions, or healthcare providers. Here are some of the benefits of a community cloud:<br>1. Cost-effectiveness: By sharing the costs of infrastructure and maintenance among multiple organizations, community clouds can be more cost-effective than building and maintaining private clouds. This can be especially beneficial for smaller organizations that might not have the resources to invest in their own cloud infrastructure.<br>2. Customization: Because a community cloud is designed to serve the needs of a specific community of users, it can be customized to meet the unique requirements of that community. This can include features such as specialized security and compliance measures or customized software applications. <br> 3.Collaboration: A community cloud can facilitate collaboration and information sharing among members of the community. For example, academic institutions can use a community cloud to share research data and collaborate on joint research projects.<br>4. Security: A community cloud can be more secure than a public cloud because access is restricted to members of the community. This can be especially important for organizations that deal with sensitive data, such as healthcare providers or government agencies.<br> 5.Scalability: A community cloud can be scaled up or down to meet the changing needs of the community. This can be especially beneficial for organizations that experience seasonal fluctuations in demand for computing resources.'
+body ='<span class="small">A community cloud is a type of cloud computing infrastructure that is shared by a group of organizations with similar interests or requirements. Unlike public clouds, community clouds are designed to serve the needs of a specific community of users, such as government agencies, academic institutions, or healthcare providers. Here are some of the benefits of a community cloud </small><p></p>1. <b class="color_change"> Cost-effectiveness : </b><span class="small">By sharing the costs of infrastructure and maintenance among multiple organizations, community clouds can be more cost-effective than building and maintaining private clouds. This can be especially beneficial for smaller organizations that might not have the resources to invest in their own cloud infrastructure.</span><p></p>2. <b class="color_change"> Customization :</b> <span class="small">Because a community cloud is designed to serve the needs of a specific community of users, it can be customized to meet the unique requirements of that community. This can include features such as specialized security and compliance measures or customized software applications.</span> <p></p> 3 . <b class="color_change">Collaboration :</b> <span class="small">A community cloud can facilitate collaboration and information sharing among members of the community. For example, academic institutions can use a community cloud to share research data and collaborate on joint research projects.</span><p></p>4. <b class="color_change">Security : </b> <span class="small">A community cloud can be more secure than a public cloud because access is restricted to members of the community. This can be especially important for organizations that deal with sensitive data, such as healthcare providers or government agencies.</span><p></p> 5 . <b class="color_change">Scalability : </b> <span class="small"> A community cloud can be scaled up or down to meet the changing needs of the community. This can be especially beneficial for organizations that experience seasonal fluctuations in demand for computing resources.</span>'
 
 [[languages.de.two.section]]
 img = "https://static.wixstatic.com/media/b8227b_5af8403b60c84fadb998cae3ee2ee5a1~mv2.png/v1/fill/w_398,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smm.png"
 title = 'Content Production'
-body = 'Learn to use Open Source video and audio production software like Open Broadcast Studio (OBS).<br>Producing content with open source tools can offer a range of benefits, including:<br>1. Cost savings: Open source tools are generally free to use, which can result in significant cost savings for individuals and organizations. This means that anyone, regardless of their budget, can access high-quality content creation tools.<br>2. Flexibility: Open source tools offer users a high degree of flexibility in terms of customization and modification. This means that users can tailor the tools to their specific needs, rather than being limited by the features provided by proprietary software.<br>3. Collaboration: Open source tools often come with built-in collaboration features, allowing users to work together on content creation projects in real-time. This can be particularly useful for distributed teams or for individuals who work remotely.<br> 4. Security: Open source tools are often more secure than their proprietary counterparts, as the code is publicly available for review and can be audited for potential security vulnerabilities. Additionally, open source tools are typically updated more frequently than proprietary software, meaning that security issues can be addressed more quickly.<br>5. Community: Open source tools are supported by a vibrant community of developers and users who are committed to improving the tools and making them accessible to everyone. This community can provide valuable resources, including tutorials, forums, and documentation, making it easier for users to learn how to use the tools effectively.'
+body = '<span class="small">Learn to use Open Source video and audio production software like Open Broadcast Studio (OBS).Producing content with open source tools can offer a range of benefits, including:</span><p></p>1. <b class="color_change">Cost savings : </b><span class="small">Open source tools are generally free to use, which can result in significant cost savings for individuals and organizations. This means that anyone, regardless of their budget, can access high-quality content creation tools.</span><p></p>2. <b class="color_change">Flexibility : </b> <span class="small">Open source tools offer users a high degree of flexibility in terms of customization and modification. This means that users can tailor the tools to their specific needs, rather than being limited by the features provided by proprietary software.</span><p></p>3. <b class="color_change">Collaboration :</b><span class="small">  Open source tools often come with built-in collaboration features, allowing users to work together on content creation projects in real-time. This can be particularly useful for distributed teams or for individuals who work remotely.</span><p></p> 4. <b class="color_change">Security : </b> <span class="small"> Open source tools are often more secure than their proprietary counterparts, as the code is publicly available for review and can be audited for potential security vulnerabilities. Additionally, open source tools are typically updated more frequently than proprietary software, meaning that security issues can be addressed more quickly.</span><p></p> 5. <b class="color_change">Community :</b> <span class="small"> Open source tools are supported by a vibrant community of developers and users who are committed to improving the tools and making them accessible to everyone. This community can provide valuable resources, including tutorials, forums, and documentation, making it easier for users to learn how to use the tools effectively.</span>'
 
 [[languages.de.two.section]]
 
@@ -259,7 +259,7 @@ enable = true
 title = "Contact Form"
 phone = "+49 (0) 9848 744"
 email = "info@kegelschiene.net"
-body = 'Located at WorcShop, in Rochdale, Massachusetts<br>11 Hankey St<br>Rochdale, MA 01542'
+body = '<b class="color_change">Located at WorcShop, in Rochdale, Massachusetts</b><br>Rochdale, MA 01542<br>11 Hankey St'
 address = "Ingolf Banecke-Jakobshagen<br />Wallmersbach 107<br />97215 Uffenheim"
 subject = "Neue Anfrage von kegelschiene.net"
 formspree_form_id = "mjvzpzyw"
