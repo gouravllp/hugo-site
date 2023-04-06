@@ -3,11 +3,11 @@ title = 'SmolTech LLC'
 languageCode = "de"
 defaultContentLanguage = "de"
 paginate = "7"
-
+theme = "spectral"
 
 [params]
 fancytitle = '<img height="128" src="https://agent.kyptronix.in/logo.png"/><br />SmolTech LLC'
-copyright = "Design & Developed By Kyptronix LLP"
+copyright = "Design & Developed By"
 startbuttonLink = "#contact"
 
 [markup.goldmark.renderer]
@@ -30,7 +30,7 @@ startbuttonText = "Contact Now"
 ## german
 
 [[languages.de.params.menu.main]]
-url = '/'
+url = ''
 title = "Home"
 
 #[[languages.de.params.menu.main]]
@@ -38,29 +38,29 @@ title = "Home"
 #title = "Aktuelles"
 
 [[languages.de.params.menu.main]]
-url = '/pricing/'
+url = ''
 title = "About"
 
 [[languages.de.params.menu.main]]
-url = '/en/'
+url = ''
 title = "Services"
 
 ## english
 
 
 [[languages.de.params.menu.main]]
-url = 'https://gallery.kegelschiene.net/'
+url = ''
 title = "Contact Us"
 
 
 
 
 [[languages.en.params.menu.main]]
-url = '/'
+url = ''
 title = "Home"
 
 #[[languages.en.params.menu.main]]
-#url = '/posts/'
+#url = ''
 #title = "Posts"
 
 [[languages.en.params.menu.main]]
@@ -68,7 +68,7 @@ url = '/en/pricing/'
 title = "Pricing"
 
 [[languages.en.params.menu.main]]
-url = 'https://gallery.kegelschiene.net/'
+url = ''
 title = "Gallery"
 
 [[languages.en.params.menu.main]]
