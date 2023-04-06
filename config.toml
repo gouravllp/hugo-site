@@ -4,9 +4,10 @@ languageCode = "de"
 defaultContentLanguage = "de"
 paginate = "7"
 
+
 [params]
 fancytitle = '<img height="128" src="https://agent.kyptronix.in/logo.png"/><br />SmolTech LLC'
-copyright = "Design & Developed By"
+copyright = "Design & Developed By Kyptronix LLP"
 startbuttonLink = "#contact"
 
 [markup.goldmark.renderer]
@@ -29,7 +30,7 @@ startbuttonText = "Contact Now"
 ## german
 
 [[languages.de.params.menu.main]]
-url = ''
+url = '/'
 title = "Home"
 
 #[[languages.de.params.menu.main]]
@@ -37,29 +38,29 @@ title = "Home"
 #title = "Aktuelles"
 
 [[languages.de.params.menu.main]]
-url = ''
+url = '/pricing/'
 title = "About"
 
 [[languages.de.params.menu.main]]
-url = ''
+url = '/en/'
 title = "Services"
 
 ## english
 
 
 [[languages.de.params.menu.main]]
-url = ''
+url = 'https://gallery.kegelschiene.net/'
 title = "Contact Us"
 
 
 
 
 [[languages.en.params.menu.main]]
-url = ''
+url = '/'
 title = "Home"
 
 #[[languages.en.params.menu.main]]
-#url = ''
+#url = '/posts/'
 #title = "Posts"
 
 [[languages.en.params.menu.main]]
@@ -67,7 +68,7 @@ url = '/en/pricing/'
 title = "Pricing"
 
 [[languages.en.params.menu.main]]
-url = ''
+url = 'https://gallery.kegelschiene.net/'
 title = "Gallery"
 
 [[languages.en.params.menu.main]]
@@ -93,7 +94,7 @@ title = "Deutsch"
 [languages.de.one]
 enable = true
 title = 'DVD/BLURAY RIPPING - COMMUNITY CLOUD - CONTENT PRODUCTION'
-body = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis laoreet arcu ut tempus. Nam at augue ut tortor lobortis aliquet at vel urna. Nullam tristique, neque quis convallis faucibus, tellus massa efficitur erat, sed interdum nisi risus et magna. Aenean a mi vel ipsum facilisis fringilla. Fusce placerat fermentum tempor. '
+body = 'Learn about the benefits of hosting your own movie collection. </br>A community cloud is a type of cloud computing infrastructure that is shared by a group of organizations with similar interests or requirements. </br>Learn to use Open Source video and audio production software like Open Broadcast Studio (OBS).'
 
 [[languages.de.one.icon]]
 icon = "fa-wheelchair-alt"
@@ -187,7 +188,7 @@ body = 'With our Start Ab system people with severe impairment of their hand mov
 [languages.de.three]
 enable = true
 title = 'Data Recovery & Custom Engineering'
-body = 'Lorem dolor sit amet, consectetur adipiscing elit. Nunc lobortis laoreet arcu ut tempus. Nam at augue ut tortor lobortis aliquet at vel urna. Nullam tristique, neque quis convallis faucibus, tellus massa efficitur erat, sed interdum nisi risus et magna. Aenean a mi vel ipsum facilisis fringilla. Fusce placerat fermentum tempor. '
+body = 'Data recovery is the process of retrieving data that has been lost or corrupted due to a variety of reasons such as hardware failure software malfunction, human error, or a malicious attack. Open source tools can be an effective and affordable option for data recovery..'
 
 [[languages.de.three.feature]]
 icon = "fa-calendar-check-o"
