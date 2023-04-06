@@ -4036,3 +4036,17 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+	.color_change{
+		color:#ff5a44;
+	}
+	.small{
+		font-size:14px;
+		
+	  
+	}
+	.image img{
+		padding:40px;
+	}
+	body{
+		text-align: justify;
+	}
