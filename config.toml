@@ -7,7 +7,7 @@ paginate = "7"
 
 [params]
 fancytitle = '<img height="128" src="https://agent.kyptronix.in/logo.png"/><br />SmolTech LLC'
-copyright = "Design & Developed By Kyptronix LLP"
+copyright = "Design & Developed By"
 startbuttonLink = "#contact"
 
 [markup.goldmark.renderer]
